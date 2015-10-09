@@ -10,4 +10,3 @@ ratings:
   - "www/js/index.js"
   - "www/css/index.css"
   - "www/index.html"
-exclude_paths:
