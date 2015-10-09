@@ -17,3 +17,4 @@ exclude_paths:
 - "www/js/bootstrap-select.min.js"
 - "www/js/jquery-1.11.3.min.js"
 - "www/css/bootstrap-select.min.css"
+- "www/css/**/*"
