@@ -1,0 +1,20 @@
+engines:
+  eslint:
+    enabled: true
+  csslint:
+    enabled: true
+  fixme:
+    enabled: true
+ratings:
+  paths:
+  - "www/js/index.js"
+  - "www/css/index.css"
+  - "www/index.html"
+exclude_paths: []
+- "www/spec/**"
+- "www/css/bootstrap.min.css"
+- "www/js/bootstrap.min.js"
+- "www/js/bootstrap-select.min.js"
+- "www/js/jquery-1.11.3.min.js"
+- "www/css/bootstrap-select.min.css"
+- "www/css/**/*"
